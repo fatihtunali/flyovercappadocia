@@ -1,0 +1,24 @@
+
+Set up project structure and create necessary directories
+
+Create reusable UI components (Button, Card, etc.)
+
+Create homepage with hero section and package overview
+
+Build packages page with detailed flight options
+
+Create photo gallery page
+
+Build 'How It Works' section
+
+Create FAQ page
+
+Build booking/contact form with validation
+
+Add partner companies section
+
+Implement responsive navigation and footer
+
+Style with Tailwind CSS for modern look
+
+Update layout with proper metadata and fonts
